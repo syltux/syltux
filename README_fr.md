@@ -118,14 +118,14 @@ Je suis **Syltux**, développeur et **UI Designer** passionné par le code, l'**
 
 ---
 
-## Activité & Impact
+<!-- ## Activité & Impact
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kydoCode&theme=react&hide_border=true&area=true" width="100%" alt="Graphique de contribution" />
 </p>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kydoCode&show_icons=true&theme=react&rank_icon=github&display_format=svg" alt="Activité" />
-</p> -->
+</p> --> -->
 
 <p align="center"><i>N'hésitez pas à ajouter une étoile aux projets qui vous intéressent !</i></p>
 
