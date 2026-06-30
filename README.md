@@ -16,7 +16,7 @@
 
 ## About Me
 Hi!
-I'm **Syltux**, a developer & **UI Designer** passionate about coding, **QA Engineering** and digital creation. Specialized in building secure, high-performance applications with a focus on user experience and software integrity.
+I'm **Syltux**, a young IT, developer & **UI Designer** passionate about coding, **QA Engineering** and digital creation. Specialized in building secure, high-performance applications and infrastructures with a focus on user experience and software integrity/security first design.
 
 ---
 

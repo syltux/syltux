@@ -16,7 +16,7 @@
 
 ## Über mich
 Hallo! 
-Ich bin **Syltux**, Entwickler & **UI-Designer** mit Leidenschaft für Coding, **QA-Engineering** und digitale Kreation. Spezialisiert auf den Bau sicherer, leistungsstarker Anwendungen mit Fokus auf User Experience und Software-Integrität.
+Ich bin **Syltux**, IT, Entwickler & **UI-Designer** mit Leidenschaft für Coding, **QA-Engineering** und digitale Kreation. Spezialisiert auf den Bau sicherer, leistungsstarker Netwerken und Anwendungen mit Fokus auf User Experience und Software-Integrität/Sicherheit by design.
 
 ---
 

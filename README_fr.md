@@ -16,7 +16,7 @@
 
 ## À propos
 Salut !
-Je suis **Syltux**, développeur et **UI Designer** passionné par le code, l'**ingénierie QA** et la création numérique. Spécialisé dans la conception d'applications sécurisées et performantes, avec un focus majeur sur l'expérience utilisateur et l'intégrité logicielle.
+Je suis **Syltux**, jeune IT, développeur et **UI Designer**. Passionné par le code, l'**ingénierie QA** et la création numérique. Spécialisé dans la conception d'infrastructures et d'applications sécurisées et performantes, avec un focus majeur sur l'expérience utilisateur et l'intégrité logicielle/le design security first.
 
 ---
 
