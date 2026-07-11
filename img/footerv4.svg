@@ -1,0 +1,124 @@
+<svg viewBox="0 0 115 25"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<style>
+
+svg {
+  width:100vw;
+  position:fixed;
+  top:-5px;
+  overflow:visible;
+}
+
+
+/* vague principale mauve */
+.wave {
+  animation: flow 16s linear infinite;
+  fill:#CE78F8;
+}
+
+
+/* vague jaune énergie */
+.wave-yellow {
+  animation: flow 22s linear infinite reverse;
+  fill:#F8C709;
+  opacity:.9;
+}
+
+
+/* profondeur */
+.wave-dark {
+  animation: flow 28s linear infinite;
+  fill:#050405;
+  opacity:.35;
+}
+
+
+/* lumière */
+.glow {
+  filter:url(#glow);
+}
+
+
+@keyframes flow {
+
+from {
+ transform:translateX(0);
+}
+
+to {
+ transform:translateX(-50%);
+}
+
+}
+
+
+</style>
+
+
+<defs>
+
+
+<filter id="glow">
+
+<feGaussianBlur
+stdDeviation="0.8"
+result="blur"/>
+
+<feMerge>
+
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+
+</feMerge>
+
+</filter>
+
+
+
+<path id="syltuxWave"
+
+d="
+M0 14
+C18 5 35 5 55 14
+C75 23 92 23 115 14
+C138 5 155 5 180 14
+C205 23 220 23 240 14
+V30
+H0
+Z"/>
+
+
+</defs>
+
+
+
+<!-- halo jaune -->
+<use
+class="wave-yellow glow"
+xlink:href="#syltuxWave"
+x="0"
+y="-4"/>
+
+
+
+<!-- mauve signature -->
+<use
+class="wave glow"
+xlink:href="#syltuxWave"
+x="0"
+y="0"/>
+
+
+
+<!-- profondeur noire -->
+<use
+class="wave-dark"
+xlink:href="#syltuxWave"
+x="0"
+y="4"/>
+
+
+
+</svg>
